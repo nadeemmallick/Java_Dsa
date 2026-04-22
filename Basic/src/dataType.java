@@ -2,7 +2,13 @@ public class dataType {
     static void main() {
         //numeric data type
         byte b = 127;
+        long d = b; // implicit conversion
+        System.out.println(d);
         System.out.println(b);
+
+        long w = 987765333;
+        int x = (int) w;
+        System.out.println(x);
 
         short s = 32767;
         System.out.println(s);
@@ -17,7 +23,7 @@ public class dataType {
         float f = 3.14f;
         System.out.println(f);
 
-        double d = 3.14666666;
+        double r = 3.14666666;
         System.out.println(d);
 
         //boolean data type
@@ -28,6 +34,7 @@ public class dataType {
 
         char c = 'A';
         System.out.println(c);
+
 
 
     }
