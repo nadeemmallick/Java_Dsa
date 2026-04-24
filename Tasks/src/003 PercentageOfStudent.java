@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PercentageOfStudent {
+class PercentageOfStudent {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("\nWelcome to Percentage Calculator");

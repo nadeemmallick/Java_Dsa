@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ifstatement {
+class Ifstatement {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("\n WELCOME TO ELIGIBLE CRITERIA CENTER");
