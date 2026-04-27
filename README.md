@@ -233,6 +233,4 @@ This is an educational repository created for learning purposes. All code is wri
 
 ---
 
-**Happy Learning! 🚀**
-
 *Last Updated: April 27, 2026*
