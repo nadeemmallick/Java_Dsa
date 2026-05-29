@@ -6,12 +6,16 @@ public class TakingInput {
         Scanner sc = new Scanner(System.in);
         int rowLength = arr.length;
 
+        //Taking input from user
+
         for (int i = 0; i <= arr.length-1; i++){
             for(int j = 0; j <= arr[i].length-1; j++){
                 System.out.println("Enter the value row = " +i+ " col = "+j);
                 arr[i][j] = sc.nextInt();
             }
         }
+
+        //Displaying the array
 
         for(int rowIndex = 0; rowIndex <=rowLength -1; rowIndex++){
             int colLength = arr[rowIndex].length;
