@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/Looping/Looping.iml" filepath="$PROJECT_DIR$/Looping/Looping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/StringBasics/StringBasics.iml" filepath="$PROJECT_DIR$/String/StringBasics/StringBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Task/Task.iml" filepath="$PROJECT_DIR$/Methods/Task/Task.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
     </modules>
