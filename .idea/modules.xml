@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/2DArray/2DArray.iml" filepath="$PROJECT_DIR$/Arrays/2DArray/2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OPPs/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/OPPs/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Array_task/Array_task.iml" filepath="$PROJECT_DIR$/Arrays/Array_task/Array_task.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/CollectionFrameWork.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/CollectionFrameWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPPs/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/OPPs/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPPs/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/OPPs/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Dsa.iml" filepath="$PROJECT_DIR$/.idea/Java_Dsa.iml" />
