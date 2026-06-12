@@ -6,7 +6,7 @@ import java.util.Collections;
 public class ArrayListLearning {
   public static void main(String[] args) {
 
-    ArrayList<Integer> list = new ArrayList<>(); // create array list
+    ArrayList<Integer> list = new ArrayList<>(); // create an array list using ArrayList as refrence
     list.add(10);
     list.add(20);
     list.add(30);
