@@ -7,9 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays/Array_task/Array_task.iml" filepath="$PROJECT_DIR$/Arrays/Array_task/Array_task.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitWiseOperator/BitWiseOperator.iml" filepath="$PROJECT_DIR$/BitWiseOperator/BitWiseOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/CollectionFrameWork.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/CollectionFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/Comparable_ComparatorInterface/Comparable_ComparatorInterface.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/Comparable_ComparatorInterface/Comparable_ComparatorInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPPs/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/OPPs/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/Hashmap/Hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPPs/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/OPPs/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/JavaListInterface/JavaListInterface.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/JavaListInterface/JavaListInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/JavaQueueInterface/JavaQueueInterface.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/JavaQueueInterface/JavaQueueInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFrameWork/JavaSetInterface/JavaSetInterface.iml" filepath="$PROJECT_DIR$/CollectionFrameWork/JavaSetInterface/JavaSetInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Dsa.iml" filepath="$PROJECT_DIR$/.idea/Java_Dsa.iml" />
       <module fileurl="file://$PROJECT_DIR$/Looping/Looping.iml" filepath="$PROJECT_DIR$/Looping/Looping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
