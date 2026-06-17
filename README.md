@@ -4,10 +4,10 @@ A comprehensive repository for mastering **Data Structures and Algorithms in Jav
 
 ## 📋 Overview
 
-This repository contains a structured collection of Java programs organized by topics, from fundamental programming concepts to advanced pattern implementations. It's designed for beginners and intermediate learners who want to strengthen their Java programming and DSA skills.
+This repository contains a structured collection of Java programs organized by topics, from fundamental programming concepts to advanced Data Structures and Algorithms implementations. It's designed for beginners and intermediate learners.
 
 **Repository Created:** April 21, 2026  
-**Last Updated:** April 27, 2026
+**Last Updated:** June 17, 2026
 
 ---
 
@@ -17,20 +17,13 @@ This repository contains a structured collection of Java programs organized by t
 Core Java concepts that form the foundation of programming.
 
 **Topics Covered:**
-- **Variable.java** - Variable declaration and initialization
-- **dataType.java** - Understanding Java data types (int, float, double, String, etc.)
-- **Basic.java** - Basic syntax and structure
-- **arithmeticOperators.java** - Addition, subtraction, multiplication, division, modulus
-- **assignmentOperators.java** - Assignment and compound assignment operators (+=, -=, etc.)
-- **unaryOperators.java** - Increment (++), decrement (--), and logical NOT (!)
-- **relationalOperators.java** - Comparison operators (==, !=, <, >, <=, >=)
-- **logicalOperators.java** - AND (&&), OR (||), NOT (!) operators
-- **TakingInput.java** - Reading user input using Scanner
-- **Conditionals.java** - if-else statements and decision making
-- **NestedIf.java** - Nested conditional statements
-- **SwitchCase.java** - Switch-case control flow
-
-**Files:** 12 Java programs
+- Variable declaration and initialization
+- Data types (int, float, double, String, etc.)
+- Basic syntax and structure
+- Operators (arithmetic, assignment, unary, relational, logical)
+- Taking user input using Scanner
+- Conditionals (if-else, nested if)
+- Switch-case control flow
 
 ---
 
@@ -38,12 +31,10 @@ Core Java concepts that form the foundation of programming.
 Master different types of loops and loop control statements.
 
 **Topics Covered:**
-- **FirstLoop.java** - Introduction to for loops and basic iteration
-- **NestedLoop.java** - Nested loops with multiple iterations
-- **BreakLooping.java** - Using break statement to exit loops
-- **ContinueLooping.java** - Using continue statement to skip iterations
-
-**Files:** 5 Java programs
+- For loops and basic iteration
+- Nested loops with multiple iterations
+- Break statement to exit loops
+- Continue statement to skip iterations
 
 ---
 
@@ -51,24 +42,14 @@ Master different types of loops and loop control statements.
 Create visually appealing patterns using nested loops and conditional logic.
 
 **Topics Covered:**
-- **SolidSquare.java** - Solid square pattern
-- **SolidRectangular.java** - Solid rectangular pattern
-- **HallowSquare.java** - Hollow square pattern
-- **NumberTriangle.java** - Number triangle pattern
-- **RightAngleTriangle.java** - Right angle triangle with numbers
-- **ReverseTriangle.java** - Reverse/inverted triangle
-- **Pramid.java** - Number pyramid pattern
-- **InvertedPramid.java** - Inverted pyramid pattern
-- **HallowPramid.java** - Hollow pyramid pattern
-- **HallowTriangle.java** - Hollow triangle pattern
-- **AlphabetTriangle.java** - Alphabet triangle pattern
-- **CountingNumberTriangle.java** - Counting number triangle
-- **Rhombus.java** - Rhombus pattern
-- **Pattern.java** - Combined pattern demonstrations
-- **SolidDiamond.java** - Solid diamond pattern
-- **HollowDimond.java** - Hollow diamond pattern
-
-**Files:** 16 Java programs
+- Solid and hollow square patterns
+- Rectangular patterns
+- Number and alphabet triangles
+- Right angle triangles
+- Reverse/inverted triangles
+- Pyramid patterns (solid, hollow, inverted)
+- Rhombus patterns
+- Diamond patterns (solid and hollow)
 
 ---
 
@@ -76,21 +57,102 @@ Create visually appealing patterns using nested loops and conditional logic.
 Real-world coding problems and practice exercises.
 
 **Topics Covered:**
-- **001 Ifstatement.java** - If statement practice
-- **002 LowerCaseToUpperCase.java** - String case conversion
-- **003 PercentageOfStudent.java** - Calculate student percentage
-- **004 UpperToLowerCase.java** - Uppercase to lowercase conversion
-- **005 Top4Percentage.java** - Find top 4 percentile students
-- **006 CountingNumber.java** - Count numbers in a range
-- **007 ReverseCounting.java** - Reverse counting logic
-- **008 MultiplicationTable.java** - Print multiplication tables
-- **009 PrintingName.java** - Print names n times
-- **010 PrimeNumber.java** - Check for prime numbers
-- **011 AllEvenNumber.java** - Find all even numbers
-- **012 RangeNumber.java** - Operations on number ranges
-- **013 SumOfAllNumber.java** - Calculate sum of numbers
+- If statement practice
+- String case conversion
+- Student percentage calculation
+- Counting and numbering operations
+- Reverse counting logic
+- Multiplication tables
+- Prime number checking
+- Even number finding
+- Range operations
+- Sum calculations
 
-**Files:** 13 Java programs
+---
+
+### 5. **Arrays** - Array Data Structure
+Comprehensive array implementations and algorithms.
+
+**Topics Covered:**
+- **2DArray** - Two-dimensional array operations
+- **Array_task** - Array-based problem solving
+
+---
+
+### 6. **Maths** - Mathematical Algorithms
+Mathematical computations and number theory problems.
+
+**Topics Covered:**
+- Mathematical problem solving
+- Number theory concepts
+- Computational mathematics
+
+---
+
+### 7. **String** - String Operations & Manipulation
+String processing and manipulation techniques.
+
+**Topics Covered:**
+- **StringBasics** - String fundamentals and operations
+- String manipulation techniques
+- String algorithms
+
+---
+
+### 8. **BitWiseOperator** - Bitwise Operations
+Bit manipulation and bitwise operator concepts.
+
+**Topics Covered:**
+- Bitwise AND, OR, XOR operations
+- Left and right shift operations
+- Bit manipulation techniques
+- Problem solving with bitwise operators
+
+---
+
+### 9. **Methods** - Method Implementation & Functions
+Method definition, calling, and best practices.
+
+**Topics Covered:**
+- Method definition and calling
+- Parameters and return types
+- Method overloading
+- **Task** - Method-based exercises and problems
+
+---
+
+### 10. **OPPs** - Object-Oriented Programming
+Core OOP concepts and implementations.
+
+**Topics Covered:**
+- **ObjectAndClass** - Object creation and class definition
+- **Inheritance** - Class inheritance and hierarchies
+- **Encapsulation** - Data hiding and access control
+- **Abstraction** - Abstract classes and interfaces
+- **Polymorphism** - Method and operator overloading
+
+---
+
+### 11. **CollectionFrameWork** - Java Collections API
+Java's built-in data structures and collection interfaces.
+
+**Topics Covered:**
+- **JavaListInterface** - ArrayList, LinkedList implementations
+- **JavaSetInterface** - HashSet, TreeSet, LinkedHashSet
+- **JavaQueueInterface** - Queue and Deque implementations
+- **Hashmap** - HashMap and related map implementations
+- **Comparable_ComparatorInterface** - Sorting and comparison interfaces
+
+---
+
+### 12. **Leetcode** - LeetCode Problem Solutions
+Solutions to popular LeetCode problems for interview preparation.
+
+**Topics Covered:**
+- Algorithm problems
+- Data structure problems
+- Optimization techniques
+- Interview preparation
 
 ---
 
@@ -103,7 +165,7 @@ Real-world coding problems and practice exercises.
    ```
 
 2. **Choose a Section:**
-   Navigate to any folder (Basic, Looping, Patterns, or Tasks) based on your learning level.
+   Navigate to any folder based on your learning level and interests.
 
 3. **Compile and Run:**
    ```bash
@@ -124,38 +186,46 @@ Real-world coding problems and practice exercises.
 - Move to **Looping** folder
 - Master for, while, and nested loops
 - Practice break and continue statements
+- Explore **Patterns** folder for logical thinking
 
 ### Advanced Level
-- Explore **Patterns** folder
-- Develop logical thinking with pattern problems
-- Practice nested loop optimization
+- Study **OPPs** (Object-Oriented Programming)
+- Learn **CollectionFrameWork** for data structures
+- Practice **Arrays** and **String** manipulation
+- Explore **BitWiseOperator** for advanced bit manipulation
 
-### Practice & Application
-- Solve problems in **Tasks** folder
-- Apply concepts to real-world scenarios
-- Build problem-solving skills
+### Expert Level
+- Solve **Leetcode** problems
+- Apply **Maths** algorithms
+- Master **Methods** and function design patterns
 
 ---
 
 ## 💡 Key Concepts Covered
 
 - ✅ Variables and Data Types
-- ✅ All Java Operators (Arithmetic, Logical, Relational, Assignment, Unary)
+- ✅ All Java Operators (Arithmetic, Logical, Relational, Assignment, Unary, Bitwise)
 - ✅ Conditional Statements (if-else, switch-case)
 - ✅ Loop Structures (for, while, nested loops)
 - ✅ Loop Control (break, continue)
 - ✅ Pattern Generation
+- ✅ Methods and Functions
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Arrays and Collections
+- ✅ String Manipulation
+- ✅ Mathematical Algorithms
 - ✅ Problem Solving Techniques
+- ✅ LeetCode Interview Problems
 
 ---
 
 ## 📊 Repository Statistics
 
 - **Language:** Java
-- **Total Java Programs:** 46+
 - **Repository Type:** Public
 - **License:** Open Source
 - **Created:** April 21, 2026
+- **Last Updated:** June 17, 2026
 
 ---
 
@@ -164,6 +234,8 @@ Real-world coding problems and practice exercises.
 - ✨ Build strong fundamentals in Java programming
 - ✨ Master control flow structures
 - ✨ Develop logical thinking through pattern problems
+- ✨ Understand Object-Oriented Programming principles
+- ✨ Master Java Collections and Data Structures
 - ✨ Practice real-world problem solving
 - ✨ Prepare for DSA interviews and competitive programming
 
@@ -188,17 +260,18 @@ Feel free to:
 
 ## 📖 How to Use This Repository
 
-1. **For Learning:** Follow the learning path from Basic → Looping → Patterns → Tasks
+1. **For Learning:** Follow the learning path from Basic → Looping → Patterns → Arrays → Methods → OPPs → CollectionFrameWork
 2. **For Reference:** Use Ctrl+F (or Cmd+F) to search for specific topics
 3. **For Practice:** Attempt each task before looking at the solution
-4. **For Interview Prep:** Practice the Tasks section regularly
+4. **For Interview Prep:** Practice the Leetcode and Tasks sections regularly
 
 ---
 
 ## 🔗 Resources
 
 - [Java Documentation](https://docs.oracle.com/javase/)
-- [DSA Interview Preparation Guide](#)
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks Java](https://www.geeksforgeeks.org/java/)
 - [Coding Best Practices](#)
 
 ---
@@ -229,8 +302,8 @@ If this repository helped you in your learning journey, please consider:
 
 ## 🎓 Disclaimer
 
-This is an educational repository created for learning purposes. All code is written for clarity and educational value. For production environments, please ensure proper error handling and optimization.
+This is an educational repository created for learning purposes. All code is written for clarity and educational value. For production environments, please ensure proper error handling and optimization techniques are applied.
 
 ---
 
-*Last Updated: April 27, 2026*
+*Last Updated: June 17, 2026*
