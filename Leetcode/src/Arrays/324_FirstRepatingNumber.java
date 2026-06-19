@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.HashMap;
 
-public class FirstRepatingNumber {
+class FirstRepatingNumber {
     public static int firstRepatingNumber(int[] nums) {
         int n = nums.length;
         for(int i = 0; i< n; i++){
