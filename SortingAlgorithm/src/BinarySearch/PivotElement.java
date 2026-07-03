@@ -19,7 +19,7 @@ public class PivotElement {
         return ans;
     }
     public static void main(String[] args) {
-        int[] arr = {50,60,70,10,20,30,40};
+        int[] arr = {30,40,50,60,70,5,10,20};
         System.out.println(pivotElement(arr));
     }
 }
