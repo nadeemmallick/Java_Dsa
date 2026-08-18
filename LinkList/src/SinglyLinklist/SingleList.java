@@ -175,7 +175,55 @@ public static class SingleList {
 
     //first occurrence of the value
 
+    public boolean updateValue(int oldData,int newData){
+        Node temp = head;
+        while(temp != null){
+            if(temp.data == oldData){
+                temp.data = newData;
+                return true;
+            }
+            temp = temp.next;
+        }
+        return false;
+    }
 
+//=======================
+// DELETION
+// ======================
+
+    //delete head
+public void deleteHead(){
+        if(head == null){
+            System.out.println("List is empty");
+            return;
+        }
+        head = head.next;
+        size--;
+
+        if(head == null){
+            tail = null;
+        }
+}
+   //delete tail
+public void deleteTail(){
+        if(head == null){
+            System.out.println("List is empty");
+            return;
+        }
+        if(head == tail){
+            head = null;
+            tail = null;
+            size = 0;
+        }
+
+        Node temp = head;
+        for(int i = 1; i <= size-2; i++){
+            temp = temp.next;
+        }
+        temp.next = null;
+        tail = temp;
+        size--;
+    }
 
 
 }
@@ -221,5 +269,21 @@ public static void main(String[] args) {
 
     myList.updatePosition(4, 300);
     myList.printList();
+
+    myList.updateValue(300, 4);
+    myList.printList();
+
+    myList.deleteHead();
+    myList.printList();
+
+    myList.deleteHead();
+    myList.printList();
+
+    myList.deleteTail();
+    myList.printList();
+
+
+
+
 
 }
